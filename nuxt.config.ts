@@ -79,7 +79,7 @@ export default defineNuxtConfig({
 
   // windicss
   windicss: {
-    analyze: {
+    /* analyze: {
       analysis: {
         interpretUtilities: false,
       },
@@ -87,7 +87,7 @@ export default defineNuxtConfig({
         port: 4000,
         open: false,
       },
-    },
+    }, */
     scan: true,
   },
 

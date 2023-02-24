@@ -1,7 +1,7 @@
 export default defineAppConfig({
-  name: 'Nuxt 3 Awesome Starter',
+  name: 'harjunwiranata is my id',
   author: {
-    name: 'viandwi24',
-    link: 'https://github.com/viandwi24',
+    name: 'harjunwiranata',
+    link: 'https://github.com/harjunwiranata',
   },
 })
